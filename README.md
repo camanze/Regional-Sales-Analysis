@@ -50,7 +50,7 @@ Layering all four regions reveals:
 
 - **Product & Segment Leaders:** Technology and Office Supplies dominate Sales and Profit share, but Furniture shows potential with higher per-unit margins in specific regions.
 
-To explore the interactive Power BI dashboards, [Click Here](https://app.powerbi.com/view?r=eyJrIjoiZTZiYjIzNGEtMTI2ZC00NGM4LTkzY2QtNzQ0MjNmOTE1ZDNiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ)
+To explore the interactive Power BI dashboards, [Click Here](https://app.powerbi.com/view?r=eyJrIjoiZTZiYjIzNGEtMTI2ZC00NGM4LTkzY2QtNzQ0MjNmOTE1ZDNiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 **Strategic Recommendations**
 
